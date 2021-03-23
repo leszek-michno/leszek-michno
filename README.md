@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leszek
 - 👀 I’m interested in new knowladge
-- 🌱 I’m currently learning javaScrip
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m currently learning javaScript
+- 💞️
 - 📫 leszek.michno@gmail.com
 
 <!---
